@@ -52,8 +52,17 @@
 //     }
 // }
 
-// var name = "ibrahim"
-// var check = name.indexOf("j")
+// var ww2 = "This is not the motive of our life";
+// var ww2length = ww2.length;
+// for (i = 0 ; i<ww2length;i++) {
+//     if (ww2.slice(0,i+6) === "motive") {
+//         ww2length = ww2.slice(0,i) + "node js" + ww2.slice(i+6)
+//         console.log(ww2)
+//     }
+//  }
+
+// var uname = "ibrahizm"
+// var check = uname.indexOf("z")
 // console.log(check)
 
 // var sentence = "This is beautiful Pakistan in Asia agian Pakistan";
@@ -69,8 +78,8 @@
 // var reult = sentence.replaceAll("Pakistan","thailand")
 // console.log(reult)
 
-// var name = "absdfjhdskjfhdjkhbdjkvc";
-// var names = name.charAt(name.length - 1);
+// var uname = "absdfjhdskjfhdjkhbdjkvc";
+// var names = uname.charAt(uname.length - 1);
 // if (names == "c") {
 //   var upper = names.toUpperCase();
 //   console.log(upper, "found");
