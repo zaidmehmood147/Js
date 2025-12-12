@@ -101,20 +101,21 @@
 // console.log(result)
 
 
-var city = prompt("enter your password");
+// var city = prompt("enter your password");
  
-var correctPassword = city==="zaid444abc";
-for (i=0; i<1; i++) { if(correctPassword){
-      console.log("You have successfully cracked the password")
-      break;
+// var correctPassword = city==="zaid444abc";
+// for (i=0; i<1; i++) { if(correctPassword){
+//       console.log("You have successfully cracked the password")
+//       break;
 
-} else {console.log("Incorrect password try again")
-   ;}
+// } else {console.log("Incorrect password try again")
+//    ;}
 
-     if(city="+" || "-" || "%" || "*"){
-      console.log("You cant use this in your password");
-    ;
-    }
+//      if(city="+" || "-" || "%" || "*"){
+//       console.log("You cant use this in your password");
+//     ;
+//     }
     
 
-    }
+    // }
+console.log("ZAID");
