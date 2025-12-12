@@ -113,5 +113,8 @@ for (i=0; i<1; i++) { if(correctPassword){
 
      if(city="+" || "-" || "%" || "*"){
       console.log("You cant use this in your password");
+    ;
     }
+    
+
     }
